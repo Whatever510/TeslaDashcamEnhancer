@@ -9,6 +9,5 @@ qt5-applications==5.15.2.2.1
 qt5-tools==5.15.2.1.0.1
 scikit-image==0.17.2
 scipy
-sip==4.19.13
 six
 opencv-python
