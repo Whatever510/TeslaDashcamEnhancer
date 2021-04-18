@@ -11,6 +11,11 @@ conda create -n <environment_name> --file requirements.txt
 
 ### Executing the code
 
+To start the program just run 
+```
+python main.py
+```
+
 **Select a Video File:** Select a video by pressing the "Select Video" Button
 
 **Select a Save Location:** Select the save location for the enhanced video by pressing the "Select Save Location" Button. Not necessary for Preview
